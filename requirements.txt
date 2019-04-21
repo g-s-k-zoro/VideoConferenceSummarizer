@@ -1,0 +1,10 @@
+orderedset
+pandas
+SpeechRecognition
+pydub
+xlrd
+flask
+scipy
+numpy
+tqdm
+openpyxl
